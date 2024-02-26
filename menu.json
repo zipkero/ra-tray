@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Kaiji",
+    "description": "카이지",
+    "children": [
+      {
+        "title": "DB Reset",
+        "description": "DB 초기화",
+        "dir": "C:\\Users\\master3\\source\\projects\\Kaiji\\kaiji.server",
+        "command": "Tool_DB_Reset.bat"
+      },
+      {
+        "title": "Generate Code",
+        "description": "코드 생성",
+        "dir": "C:\\Users\\master3\\source\\projects\\Kaiji\\kaiji.server",
+        "command": "Tool_Generate_Code.bat"
+      },
+      {
+        "title": "Generate Table",
+        "description": "테이블 생성",
+        "dir": "C:\\Users\\master3\\source\\projects\\Kaiji\\kaiji.server",
+        "command": "Tool_Generate_Table.bat"
+      },
+      {
+        "title": "Refresh Common",
+        "description": "솔루션 동기화",
+        "dir": "C:\\Users\\master3\\source\\projects\\Kaiji\\kaiji.server",
+        "command": "Tool_Refresh_Common.bat"
+      }
+    ]
+  }
+]
